@@ -1,0 +1,25 @@
+body{
+    background-color: #263a47;
+    background-image: url(bgimgjpeg.jpeg);
+    background-size: 1600px 700px;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+.nav-bar{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    justify-content: space-around;
+    display: flex;
+    color: whitesmoke;
+}
+.btn{
+    font-size: 15px;
+    font-weight: 300;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 4rem;
+    box-shadow: inset;
+    background-color: #b4c5db;
+}
+.heading{
+    font-size:200%;
+    font-family: cursive;
+}    
